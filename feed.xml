@@ -4,10 +4,17 @@
     <title>League of Legends Tier 1 Clash &amp; Meta Hub</title>
     <link>https://league-of-legends-clash-meta-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:29:33 GMT</lastBuildDate>
     <atom:link href="https://league-of-legends-clash-meta-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
+      <link>https://www.reddit.com/r/hardware/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/league-of-legends-clash-meta-hub/#league-of-legends-clash-meta-hub-reddit-20261118-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:29:33 GMT</pubDate>
+      <description>Newly verified community added to League of Legends Tier 1 Clash &amp; Meta Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
+    </item>
+<item>
       <title>League of Legends Tier 1 Clash &amp; Meta Hub Initial Release</title>
       <link>https://league-of-legends-clash-meta-hub.vercel.app/</link>
       <pubDate>Thu, 17 Sep 2026 11:30:01 GMT</pubDate>
